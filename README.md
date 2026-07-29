@@ -1,7 +1,9 @@
-MucknSpark is a rogue like rpg game that incorporates the wave systems like those games in the arcade. It spawns the player who can dodge as well as slash 
+<MucknSpark is a rogue like rpg game that incorporates the wave systems like those games in the arcade. It spawns the player who can dodge as well as slash 
 the enemies to defend himself and he has to survive as many waves as he can until all of his flesh get's hacked by the goblins. 
 
-**Controls:**
+**The thing that makes this game unique is -**
+
+<h1>**Controls:**</h1>
 
 1. A and D are the primary controls for movement on the path.
 2. Player can press J to cleave the goblins
